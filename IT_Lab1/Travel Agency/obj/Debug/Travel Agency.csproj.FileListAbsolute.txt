@@ -1,0 +1,6 @@
+c:\users\bojan\documents\visual studio 2015\Projects\Travel Agency\Travel Agency\bin\Debug\Travel Agency.exe.config
+c:\users\bojan\documents\visual studio 2015\Projects\Travel Agency\Travel Agency\bin\Debug\Travel Agency.exe
+c:\users\bojan\documents\visual studio 2015\Projects\Travel Agency\Travel Agency\bin\Debug\Travel Agency.pdb
+c:\users\bojan\documents\visual studio 2015\Projects\Travel Agency\Travel Agency\obj\Debug\Travel Agency.csprojResolveAssemblyReference.cache
+c:\users\bojan\documents\visual studio 2015\Projects\Travel Agency\Travel Agency\obj\Debug\Travel Agency.exe
+c:\users\bojan\documents\visual studio 2015\Projects\Travel Agency\Travel Agency\obj\Debug\Travel Agency.pdb
